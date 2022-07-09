@@ -1,25 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react"
+import { createGlobalStyle } from "styled-components"
+import Header from "./Components/Header/Navegação"
+import Sobre from "./Components/Main/Sobre/Missões"
+import Formações from "./Components/Main/Formações/Formações"
+import Equipe from "./Components/Main/Equipe/Equipe"
+import Eventos from "./Components/Main/Eventos/Eventos"
+import Contato from "./Components/Footer/Contato"
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const GlobalStyle = createGlobalStyle`
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+  font-family: Montserrat, Regular;
 }
+`
 
-export default App;
+export default function App() {
+  return (
+    <>
+      <GlobalStyle />
+      <Header />
+      <Sobre />
+      <Formações />
+      <Equipe />
+      <Eventos />
+      <Contato />
+    </>
+  )
+}
