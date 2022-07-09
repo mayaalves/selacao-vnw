@@ -16,77 +16,77 @@ import Priscila from "./ImgsEquipe/Priscila.jpg"
 
 export const Dados = [
   {
-    foto: { Dimitri },
+    foto: ( Dimitri ),
     nome: "Dimitri Duque",
     profissão: "Voluntario"
   },
   {
-    foto: { Hugo },
+    foto: ( Hugo ),
     nome: "Hugo Sabino",
     profissão: "Voluntario"
   },
   {
-    foto: { Karla },
+    foto: ( Karla ),
     nome: "Karla Melo",
     profissão: "Voluntaria"
   },
   {
-    foto: { Paula },
+    foto: ( Paula ),
     nome: "Paula Misan",
     profissão: "Voluntaria"
   },
   {
-    foto: { Thais },
+    foto: ( Thais ),
     nome: "Thais Brait",
     profissão: "Voluntaria"
   },
   {
-    foto: { AlineF },
+    foto: ( AlineF ),
     nome: "Aline Froes",
     profissão: "CEO"
   },
   {
-    foto: { AlineN },
+    foto: ( AlineN ),
     nome: "Aline Nogueira",
     profissão: "Agente socioemocional"
   },
   {
-    foto: { Andrea },
+    foto: ( Andrea ),
     nome: "Andrea Marinho",
     profissão: "Psicologa"
   },
   {
-    foto: { Cris },
+    foto: ( Cris ),
     nome: "Cris dos Prazeres",
     profissão: "Coordenadora executiva"
   },
   {
-    foto: { Karynne },
+    foto: ( Karynne ),
     nome: "Karynne Moreira",
     profissão: "Facilitadora tecnica"
   },
   {
-    foto: { Luzia },
+    foto: ( Luzia ),
     nome: "Luzia Merlin",
     profissão: "Agente socioemocional"
   },
   {
-    foto: { Mariana },
+    foto: ( Mariana ),
     nome: "Mariana Correia",
     profissão: "Coordenadora administrativa"
   },
   {
-    foto: { Marina },
+    foto: ( Marina ),
     nome: "Marina Thiago",
     profissão: "Agente de estrategia"
   },
   {
-    foto: { Marlon },
+    foto: ( Marlon ),
     nome: "Marlon Yuri",
     profissão: "instrutor tecnico"
   },
   {
-    foto: { Priscila },
+    foto: ( Priscila ),
     nome: "Priscila Tufani",
     profissão: "Agente de estrategia"
   }

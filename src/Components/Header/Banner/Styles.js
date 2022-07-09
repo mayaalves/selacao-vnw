@@ -6,7 +6,7 @@ export const Container = styled.section`
   background-size: cover;
   background-repeat: no-repeat;
   height: 120vh;
-  margin-top: -10vh;
+  margin-top: -20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
