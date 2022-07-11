@@ -46,6 +46,9 @@ font-size: 2vh;
 text-align: center;
 position: relative;
 bottom: 9vh;
+font-weight: bold;
+background: rgb(15,34,96);
+background: linear-gradient(0deg, rgba(15,34,96,1) 0%, rgba(255,255,255,0) 68%);
 `
 export const BoxDialogo = styled.div`
 display: flex;

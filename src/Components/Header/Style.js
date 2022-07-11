@@ -27,4 +27,9 @@ export const Ul = styled.ul`
 `
 export const Li = styled.li`
   list-style: none;
+  cursor: pointer;
+  &:hover{
+    color: #FFAC2D;
+    font-weight: bold;
+  }
 `

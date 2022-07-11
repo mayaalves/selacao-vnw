@@ -16,13 +16,15 @@ export const H1 = styled.h1`
 color: #FF611E;
 position: absolute;
 top: 18vh;
-left: 32vh;
+left: 40vh;
 font-size: 8vh;
+font-weight: lighter;
 `
 export const Carreira = styled.h2`
   width: 120vh;
   color: #ffac2d;
   font-size: 6vh;
+  text-indent: 6vh;
 `
 export const BoxDialogo = styled.section`
   padding: 4vh;
@@ -53,4 +55,5 @@ font-size: 2.5vh;
 font-weight: lighter;
 margin-right: 70vh;
 margin-top: 1vh;
+color: #FED5B2;
 `
