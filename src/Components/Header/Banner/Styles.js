@@ -12,14 +12,25 @@ export const Container = styled.section`
   align-items: center;
   justify-content: center;
 `
+export const H1 = styled.h1`
+color: #FF611E;
+position: absolute;
+top: 23vh;
+left: 34vh;
+font-size: 8vh;
+`
 export const Carreira = styled.h2`
+  width: 120vh;
   color: #ffac2d;
+  font-size: 6vh;
 `
 export const BoxDialogo = styled.section`
   padding: 4vh;
   background-color: #ffffff;
   color: #00145d;
   border-radius: 10px;
+  margin-right: 52vh;
+  margin-top: 6vh;
 `
 export const Reticencias = styled.h2`
   font-weight: bolder;
@@ -32,6 +43,14 @@ export const Underline = styled.h2`
   margin-top: -14vh;
 `
 export const Inscreva = styled.h2`
+margin-top: 4vh;
 `
-export const Data = styled.h2``
-export const Link = styled.h2``
+export const Data = styled.h2`
+margin-top: 2vh;
+`
+export const Link = styled.h2`
+font-size: 2.5vh;
+font-weight: lighter;
+margin-right: 70vh;
+margin-top: 1vh;
+`

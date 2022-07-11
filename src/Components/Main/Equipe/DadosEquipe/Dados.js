@@ -18,76 +18,76 @@ export const Dados = [
   {
     foto: ( Dimitri ),
     nome: "Dimitri Duque",
-    profissão: "Voluntario"
+    cargo: "Voluntario"
   },
   {
     foto: ( Hugo ),
     nome: "Hugo Sabino",
-    profissão: "Voluntario"
+    cargo: "Voluntario"
   },
   {
     foto: ( Karla ),
     nome: "Karla Melo",
-    profissão: "Voluntaria"
+    cargo: "Voluntaria"
   },
   {
     foto: ( Paula ),
     nome: "Paula Misan",
-    profissão: "Voluntaria"
+    cargo: "Voluntaria"
   },
   {
     foto: ( Thais ),
     nome: "Thais Brait",
-    profissão: "Voluntaria"
+    cargo: "Voluntaria"
   },
   {
     foto: ( AlineF ),
     nome: "Aline Froes",
-    profissão: "CEO"
+    cargo: "CEO"
   },
   {
     foto: ( AlineN ),
     nome: "Aline Nogueira",
-    profissão: "Agente socioemocional"
+    cargo: "Agente socioemocional"
   },
   {
     foto: ( Andrea ),
     nome: "Andrea Marinho",
-    profissão: "Psicologa"
+    cargo: "Psicologa"
   },
   {
     foto: ( Cris ),
     nome: "Cris dos Prazeres",
-    profissão: "Coordenadora executiva"
+    cargo: "Coordenadora executiva"
   },
   {
     foto: ( Karynne ),
     nome: "Karynne Moreira",
-    profissão: "Facilitadora tecnica"
+    cargo: "Facilitadora tecnica"
   },
   {
     foto: ( Luzia ),
     nome: "Luzia Merlin",
-    profissão: "Agente socioemocional"
+    cargo: "Agente socioemocional"
   },
   {
     foto: ( Mariana ),
     nome: "Mariana Correia",
-    profissão: "Coordenadora administrativa"
+    cargo: "Coordenadora administrativa"
   },
   {
     foto: ( Marina ),
     nome: "Marina Thiago",
-    profissão: "Agente de estrategia"
+    cargo: "Agente de estrategia"
   },
   {
     foto: ( Marlon ),
     nome: "Marlon Yuri",
-    profissão: "instrutor tecnico"
+    cargo: "instrutor tecnico"
   },
   {
     foto: ( Priscila ),
     nome: "Priscila Tufani",
-    profissão: "Agente de estrategia"
+    cargo: "Agente de estrategia"
   }
 ]

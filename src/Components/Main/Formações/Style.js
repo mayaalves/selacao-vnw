@@ -22,6 +22,7 @@ flex-direction: row;
 export const Pc = styled.img`
 width: 10vh;
 height: 10vh;
+margin-right: 5vh;
 `
 export const BoxSubTitulo = styled.section`
 display: flex;
@@ -34,6 +35,7 @@ export const P = styled.p`
 width: 40vh;
 `
 export const Mecanica = styled.img`
+margin-top: 10vh;
 width: 80vh;
 height: 55vh;
 `

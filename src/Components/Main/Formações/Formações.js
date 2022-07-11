@@ -3,6 +3,7 @@ import * as S from "./Style"
 import Pc from "./Imgs/Pc.png"
 import Mecanica from "./Imgs/Mecanica.png"
 
+
 export default function Formações() {
   return (
     <S.Container>
