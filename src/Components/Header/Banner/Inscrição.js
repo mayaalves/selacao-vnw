@@ -1,6 +1,7 @@
 import React from "react"
 import * as S from "./Styles"
 
+
 export default function Inscrição() {
   return (
     <S.Container>
@@ -10,7 +11,7 @@ export default function Inscrição() {
       </S.Carreira>
       <S.BoxDialogo>
         <S.Reticencias>...</S.Reticencias>
-        <S.Underline>__________</S.Underline>
+        <S.Underline>_____________</S.Underline>
         <S.Inscreva>Inscreva-se no Vai na Web!</S.Inscreva>
         <S.Data>Inscrições 02 a 21 de Agosto</S.Data>
       </S.BoxDialogo>

@@ -7,7 +7,6 @@ height: 160vh;
 export const Titulo = styled.h2`
 margin-left: 22vh;
 margin-bottom: 2vh;
-margin-top: -5vh;
 color: #0F2260;
 `
 export const Img = styled.img`

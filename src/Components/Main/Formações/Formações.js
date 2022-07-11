@@ -3,13 +3,16 @@ import * as S from "./Style"
 import Pc from "./Imgs/Pc.png"
 import Mecanica from "./Imgs/Mecanica.png"
 
-
 export default function Formações() {
   return (
     <S.Container>
+      
       <S.BoxDialogo>
+
       <S.Titulo>Formação</S.Titulo>
+
       <S.BoxDireção>
+
         <S.Pc src={Pc} alt="" />
         <S.BoxSubTitulo>
         <S.SubTitulo>FRONT-END</S.SubTitulo>
@@ -34,7 +37,9 @@ export default function Formações() {
         </S.BoxSubTitulo>
         </S.BoxDireção>
       </S.BoxDialogo>
+      <S.BoxMecanica>
       <S.Mecanica src={Mecanica} alt="" />
+    </S.BoxMecanica>
     </S.Container>
   )
 }

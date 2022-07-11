@@ -15,8 +15,8 @@ export const Container = styled.section`
 export const H1 = styled.h1`
 color: #FF611E;
 position: absolute;
-top: 23vh;
-left: 34vh;
+top: 18vh;
+left: 32vh;
 font-size: 8vh;
 `
 export const Carreira = styled.h2`
@@ -29,7 +29,7 @@ export const BoxDialogo = styled.section`
   background-color: #ffffff;
   color: #00145d;
   border-radius: 10px;
-  margin-right: 52vh;
+  margin-right: 48vh;
   margin-top: 6vh;
 `
 export const Reticencias = styled.h2`
